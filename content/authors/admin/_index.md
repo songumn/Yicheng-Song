@@ -26,10 +26,10 @@ organizations:
 education:
   courses:
     - course: PhD in Information Systems
-      institution: BostonUniversity
+      institution: Boston University
       year: 2017
     - course: PhD in Computer Science
-      institution: Institute of Computing Technology, Chinese Academy of Sciences
+      institution: Chinese Academy of Sciences
       year: 2012
     - course: BSc
       institution: Wuhan University
