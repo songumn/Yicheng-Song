@@ -1,5 +1,5 @@
 ---
-title: Yicheng Song 宋一丞
+title: Yicheng Song
 role: Assistant Professor of Information & Decision Sciences
 avatar_filename: 20170810_yicheng_song-17-1-.jpg
 bio: ""
@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: ycsong@umn.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
