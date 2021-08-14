@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: ycsong@umn.edu
+    link: "mailto: ycsong@umn.edu"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
