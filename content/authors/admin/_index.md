@@ -1,9 +1,8 @@
 ---
-title: Yicheng Song
-role: Professor of Artificial Intelligence
+title: Yicheng Song 宋一丞
+role: Assistant Professor of Information & Decision Sciences
 avatar_filename: 20170810_yicheng_song-17-1-.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
