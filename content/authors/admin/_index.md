@@ -1,7 +1,7 @@
 ---
 title: Yicheng Song
 role: Assistant Professor of Information & Decision Sciences
-avatar_filename: 20170810_yicheng_song-17-1-.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Artificial Intelligence
