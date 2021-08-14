@@ -19,21 +19,21 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/yicheng-song-4b196943
 organizations:
   - name: University of Minnesota
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Information Systems
+      institution: BostonUniversity
+      year: 2017
+    - course: PhD in Computer Science
+      institution: Institute of Computing Technology, Chinese Academy of Sciences
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc
+      institution: Wuhan University
+      year: 2006
 email: ""
 superuser: true
 highlight_name: false
